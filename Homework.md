@@ -33,3 +33,5 @@ b) Escribe una expresión algebraica que represente la superficie de cada produc
 c) Escribe una expresión algebraica que represente el area de todo el terreno la suma de los terminos anteriores
 
 (2x-3)(x) + (3)(2) + (2x-3)(2) + (3)(x)
+
+d) Anota ahora el area del terreno como el producto de sus lados e iguala esa expresion con la anterior
